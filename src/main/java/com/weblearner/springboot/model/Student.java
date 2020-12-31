@@ -1,11 +1,5 @@
 package com.weblearner.springboot.model;
 
-import javax.annotation.Generated;
-
-import org.springframework.data.annotation.Id;
-
-
-
 public class Student {
 	
 	private String name;
