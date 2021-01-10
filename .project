@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>minikube_springboot_mongo_external</name>
+	<name>minikube_springboot_mongo_pod</name>
 	<comment></comment>
 	<projects>
 	</projects>
